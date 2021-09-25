@@ -1,3 +1,4 @@
+// Урок 1. JavaScript. Что такое prototype. JavaScript Prototype
 const person = {
     name: 'Maxim',
     age: 25,
